@@ -75,12 +75,9 @@ header > h1{
 }
 
 .reset {
-    margin: 20px auto;
+    margin: 15px auto;
     width: 200px;
-    color: white;
-    font-size: 46px;
-    padding: 15px 20px;
-    font-family: Asap, sans-serif;
+    padding: 10px 15px;
     position: relative;
     text-align: center;
 }
@@ -88,10 +85,10 @@ header > h1{
     background-color: #98113d;
     border-radius: 4px;
     padding: 10px 10px;
-    margin: 5px 5;
+    margin: 10px 10;
     cursor: pointer;
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
     font-family: Asap, sans-serif;
   }
